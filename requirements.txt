@@ -57,7 +57,7 @@ chroma-hnswlib==0.7.3
     # via chromadb
 chromadb==0.4.18
     # via -r requirements.in
-cli-helpers[styles]==2.3.0
+cli-helpers[styles]==2.3.1
     # via duckcli
 click==8.1.7
     # via
