@@ -75,7 +75,7 @@ configobj==5.0.8
     #   duckcli
 cryptography==41.0.5
     # via pdfminer-six
-dataclasses-json==0.6.2
+dataclasses-json==0.6.6
     # via langchain
 deprecated==1.2.14
     # via
