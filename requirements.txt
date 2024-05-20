@@ -105,7 +105,7 @@ fsspec==2023.10.0
     # via huggingface-hub
 gitdb==4.0.11
     # via gitpython
-gitpython==3.1.40
+gitpython==3.1.43
     # via streamlit
 google-auth==2.23.4
     # via kubernetes
