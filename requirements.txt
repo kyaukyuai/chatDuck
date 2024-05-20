@@ -91,7 +91,7 @@ et-xmlfile==1.1.0
     # via openpyxl
 fastapi==0.104.1
     # via chromadb
-filelock==3.13.1
+filelock==3.14.0
     # via huggingface-hub
 filetype==1.2.0
     # via unstructured
