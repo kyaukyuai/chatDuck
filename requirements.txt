@@ -73,7 +73,7 @@ configobj==5.0.8
     # via
     #   cli-helpers
     #   duckcli
-cryptography==41.0.5
+cryptography==41.0.7
     # via pdfminer-six
 dataclasses-json==0.6.6
     # via langchain
