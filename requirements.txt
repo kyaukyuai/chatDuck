@@ -97,7 +97,7 @@ filetype==1.2.0
     # via unstructured
 flatbuffers==23.5.26
     # via onnxruntime
-frozenlist==1.4.0
+frozenlist==1.4.1
     # via
     #   aiohttp
     #   aiosignal
