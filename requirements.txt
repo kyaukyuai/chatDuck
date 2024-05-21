@@ -207,7 +207,7 @@ olefile==0.46
     # via msg-parser
 onnxruntime==1.16.3
     # via chromadb
-openai==0.28.0
+openai==0.28.1
     # via -r requirements.in
 openpyxl==3.1.2
     # via unstructured
