@@ -175,7 +175,7 @@ mpmath==1.3.0
     # via sympy
 msg-parser==1.2.0
     # via unstructured
-multidict==6.0.4
+multidict==6.0.5
     # via
     #   aiohttp
     #   yarl
