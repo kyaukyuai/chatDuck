@@ -307,7 +307,7 @@ python-dateutil==2.8.2
     #   streamlit
 python-docx==1.1.0
     # via unstructured
-python-dotenv==1.0.0
+python-dotenv==1.0.1
     # via uvicorn
 python-magic==0.4.27
     # via unstructured
