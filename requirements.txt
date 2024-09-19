@@ -263,7 +263,7 @@ posthog==3.0.2
     # via chromadb
 prompt-toolkit==3.0.41
     # via duckcli
-protobuf==4.25.1
+protobuf==4.25.5
     # via
     #   googleapis-common-protos
     #   onnxruntime
