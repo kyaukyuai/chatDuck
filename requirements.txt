@@ -261,7 +261,7 @@ platformdirs==4.0.0
     # via black
 posthog==3.0.2
     # via chromadb
-prompt-toolkit==3.0.41
+prompt-toolkit==3.0.48
     # via duckcli
 protobuf==4.25.1
     # via
