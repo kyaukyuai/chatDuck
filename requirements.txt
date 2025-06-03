@@ -69,7 +69,7 @@ click==8.1.7
     #   uvicorn
 coloredlogs==15.0.1
     # via onnxruntime
-configobj==5.0.8
+configobj==5.0.9
     # via
     #   cli-helpers
     #   duckcli
