@@ -103,7 +103,7 @@ frozenlist==1.4.1
     #   aiosignal
 fsspec==2023.10.0
     # via huggingface-hub
-gitdb==4.0.11
+gitdb==4.0.12
     # via gitpython
 gitpython==3.1.43
     # via streamlit
