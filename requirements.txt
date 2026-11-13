@@ -271,7 +271,7 @@ protobuf==4.25.1
     #   streamlit
 pulsar-client==3.3.0
     # via chromadb
-pyarrow==14.0.1
+pyarrow==14.0.2
     # via streamlit
 pyasn1==0.5.1
     # via
