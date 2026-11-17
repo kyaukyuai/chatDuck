@@ -209,7 +209,7 @@ onnxruntime==1.16.3
     # via chromadb
 openai==0.28.0
     # via -r requirements.in
-openpyxl==3.1.2
+openpyxl==3.1.5
     # via unstructured
 opentelemetry-api==1.21.0
     # via
